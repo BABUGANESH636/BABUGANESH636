@@ -1,16 +1,24 @@
-## Hi there 👋
+# Babu Ganesh
 
-<!--
-**BABUGANESH636/BABUGANESH636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gameplay Programmer | Unity • C#
 
-Here are some ideas to get you started:
+Gameplay Programmer with **2+ years of experience** using **Unity and C#**, focused on **system-driven gameplay**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core strengths:**
+- Player Movement Systems
+- Finite State Machines (FSM / HFSM)
+- Combat Mechanics
+- UI Systems & Game Flow
+- Gameplay Architecture & Debugging
+
+Currently building and iterating on a **system-heavy 2D RPG project** featuring player & enemy FSMs, modular weapons, combat logic, and save/load systems.  
+Actively improving toward **multiplayer-ready gameplay systems**.
+
+### Tech Stack
+Unity · C# · Gameplay Programming · FSM / HFSM · ScriptableObjects · Event-Driven Systems · Git
+
+### Projects
+- **2D RPG Gameplay Systems Project** — Player & enemy FSMs, combat, weapons, save systems  
+- **Galaxy Shooter Prototype** — Player controls, FSM enemies, UI, complete gameplay loop
+
+📫 **LinkedIn:** www.linkedin.com/in/babu-ganesh-ramasamy-547a692a3
