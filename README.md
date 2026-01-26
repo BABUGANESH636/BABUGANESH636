@@ -21,4 +21,8 @@ Unity · C# · Gameplay Programming · FSM / HFSM · ScriptableObjects · Event-
 - **2D RPG Gameplay Systems Project** — Player & enemy FSMs, combat, weapons, save systems  
 - **Galaxy Shooter Prototype** — Player controls, FSM enemies, UI, complete gameplay loop
 
-📫 **LinkedIn:** www.linkedin.com/in/babu-ganesh-ramasamy-547a692a3
+📫 **LinkedIn:** www.linkedin.com/in/babu-ganesh-ramasamy-gameplay-programmer
+
+📁 **Portfolio:** https://babuganesh636.github.io
+
+🎮 **Itch.io:** https://babuganesh-unity.itch.io/
